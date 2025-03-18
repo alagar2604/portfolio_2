@@ -8,7 +8,7 @@ This is a responsive portfolio built with **React.js** and **Bootstrap**. The we
    
    <img src="./portfolio.png" />
 
-[Live](https://alagar2604.github.io/portfolio_2/) 
+[Live](https://alagar-portfolio.netlify.app/) 
 
      
    
